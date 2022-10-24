@@ -22,6 +22,7 @@ const sum = (num1, num2) => {
 
 const mySum = sum(3, 7);
 console.log("my sum", mySum);
+
 console.log(sum(1, 3));
 
 const highestNumber = (num1, num2) => {
